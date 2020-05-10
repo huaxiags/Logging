@@ -1,8 +1,8 @@
-# 项目代号
-# 项目名称（项目代号）
+# HuaXiaGS.Logging
+# 日志服务产品中间件（HuaXiaGS.Logging）
 
 #### Description
-项目介绍信息
+日志服务中间件采用面向接口编程，提取常用日志记录行为作公共接口，充分利用异步编程模式（async与await），具备NLog等日志服务接入。
 
 #### Software Architecture
 Software architecture description
